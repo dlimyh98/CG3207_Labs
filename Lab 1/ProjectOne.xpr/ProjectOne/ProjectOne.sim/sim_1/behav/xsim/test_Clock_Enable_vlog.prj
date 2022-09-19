@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../Downloads/Lab_1_Template/Clock_Enable.v" \
+"../../../../ProjectOne.srcs/sim_1/new/test_Clock_Enable.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

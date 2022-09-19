@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Sep  5 11:29:27 2022
+# Process ID: 12312
+# Current directory: C:/Users/Damien/ProjectOne
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18812 C:\Users\Damien\ProjectOne\ProjectOne.xpr
+# Log file: C:/Users/Damien/ProjectOne/vivado.log
+# Journal file: C:/Users/Damien/ProjectOne\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Damien/ProjectOne/ProjectOne.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source test_Get_MEM.tcl
+close_sim
+archive_project C:/Users/Damien/ProjectOne.xpr.zip -temp_dir C:/Users/Damien/ProjectOne/.Xil/Vivado-12312-LAPTOP-51RINPU4 -force -include_local_ip_cache
