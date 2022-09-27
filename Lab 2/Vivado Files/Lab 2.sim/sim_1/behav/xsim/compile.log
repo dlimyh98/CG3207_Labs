@@ -1,0 +1,22 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Damien/Downloads/ProjectTwo/ProjectTwo.srcs/sources_1/imports/Lab_2_Template/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+WARNING: [VRFC 10-2096] empty statement in sequential block [C:/Users/Damien/Downloads/ProjectTwo/ProjectTwo.srcs/sources_1/imports/Lab_2_Template/ALU.v:48]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Damien/Downloads/ProjectTwo/ProjectTwo.srcs/sources_1/imports/Lab_2_Template/ARM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ARM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Damien/Downloads/ProjectTwo/ProjectTwo.srcs/sources_1/imports/Lab_2_Template/CondLogic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CondLogic
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Damien/Downloads/ProjectTwo/ProjectTwo.srcs/sources_1/imports/Lab_2_Template/Decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Damien/Downloads/ProjectTwo/ProjectTwo.srcs/sources_1/imports/Lab_2_Template/Extend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Extend
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Damien/Downloads/ProjectTwo/ProjectTwo.srcs/sources_1/imports/Lab_2_Template/ProgramCounter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProgramCounter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Damien/Downloads/ProjectTwo/ProjectTwo.srcs/sources_1/imports/Lab_2_Template/RegFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Damien/Downloads/ProjectTwo/ProjectTwo.srcs/sources_1/imports/Lab_2_Template/Shifter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Shifter
+INFO: [VRFC 10-311] analyzing module shiftByNPowerOf2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Damien/Downloads/ProjectTwo/ProjectTwo.srcs/sources_1/imports/Lab_2_Template/Wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Damien/Downloads/ProjectTwo/ProjectTwo.srcs/sources_1/imports/Lab_2_Template/test_Wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_Wrapper
